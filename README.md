@@ -1,4 +1,7 @@
 # Mks-Robin-Nano-Marlin2.0-Firmware
+
+Thanks to https://github.com/RolfZuckowskiUltras/TwoTrees-Sapphire-Pro-Plus-Marlin2.0-with-GUI for the way to support multiple printers. This is a combination of the official MKS source and his work.
+
 ## Features
 The firmware of MKS Robin Nano, based on [Marlin2.0.x](https://github.com/MarlinFirmware/Marlin), added the [LittlevGL](https://github.com/littlevgl/lvgl), supporting colourful GUI and touch screen. It is developed on PlatformIO, we hope more and more developers will participate the development of this repository.
 
